@@ -8,5 +8,5 @@ Stack:
 <li>Bootstrap 5</li>
 </ul>
 
-<p>Web Blog yang saya buat sebagai latihan saya mengenai JavaScript</p>
-![Demo](demo/demo.gif)
+<p>Web Blog yang saya buat sebagai latihan saya mengenai JavaScript</p><br>
+![demo](demo/demo.gif)
