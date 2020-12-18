@@ -9,4 +9,5 @@ Stack:
 </ul>
 
 <p>Web Blog yang saya buat sebagai latihan saya mengenai JavaScript</p><br>
+
 ![demo](demo/demo.gif)
