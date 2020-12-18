@@ -9,4 +9,4 @@ Stack:
 </ul>
 
 <p>Web Blog yang saya buat sebagai latihan saya mengenai JavaScript</p>
-[!Demo](demo/demo.gif)
+![Demo](demo/demo.gif)
