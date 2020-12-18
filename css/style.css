@@ -1,0 +1,1 @@
+body {max-width: 1440px;margin: auto;}.jumbotron {padding: 2rem 1rem;margin-bottom: 2rem;background-color: #e9ecef; border-radius: .3rem;}.jumbotron h1{font-size: 4em;}.verified {color: rgb(49, 190, 209);}.create-article {border-radius: 50%;position: fixed;bottom: 2em;right: 2em;transform: scale(1.5);}.create-article:hover {cursor: pointer;}.blogs {display: none;}
